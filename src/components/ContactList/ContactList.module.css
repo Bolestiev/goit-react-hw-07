@@ -1,0 +1,17 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-right: auto;
+  padding: 0;
+  list-style-type: none;
+  max-width: 800px;
+}
+
+.btn {
+  position: absolute;
+  left: 180px;
+  bottom: 50px;
+  border-radius: 8px;
+}
